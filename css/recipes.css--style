@@ -1,0 +1,9 @@
+header, footer {
+  width: 100%;
+  text-align: center;
+  background-color: red; }
+
+body {
+  background-color: red; }
+
+/*# sourceMappingURL=recipes.css--style.map */
